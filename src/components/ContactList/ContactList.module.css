@@ -4,7 +4,8 @@
 }
 th {
   padding: 8px 10px;
-  background-color: rgb(220, 217, 217);
+  background-color: rgb(83, 185, 241);
+  color: chartreuse;
 }
 th:nth-child(2) {
   width: 30%;
